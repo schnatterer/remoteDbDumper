@@ -1,5 +1,6 @@
 # remoteDbDumper
 
+[![Build Status](https://travis-ci.org/schnatterer/remoteDbDumper.svg?branch=master)](https://travis-ci.org/schnatterer/remoteDbDumper)
 [![License](https://img.shields.io/github/license/schnatterer/remoteDbDumper.svg)](LICENSE)
   
 Command-line interface for downloading database dumps via by web-based tools (e.g. drupal with plugin [Backup and Migrate] (https://drupal.org/project/backup_migrate)).
